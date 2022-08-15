@@ -1,12 +1,6 @@
 {
   "pessoas": [
     {
-      "id": 1,
-      "cidadeId": 1,
-      "email": "juca@gmail.com",
-      "nomeCompleto": "Juca Silva"
-    },
-    {
       "id": 2,
       "cidadeId": 1,
       "email": "maria@gmail.com",
@@ -33,7 +27,7 @@
     {
       "id": 6,
       "cidadeId": 1,
-      "email": "juca@gmail.com",
+      "email": "juca2@gmail.com",
       "nomeCompleto": "Juca Silva"
     },
     {
@@ -63,7 +57,7 @@
     {
       "id": 11,
       "cidadeId": 1,
-      "email": "juca@gmail.com",
+      "email": "juca3@gmail.com",
       "nomeCompleto": "Juca Silva"
     },
     {
