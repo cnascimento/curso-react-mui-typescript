@@ -122,5 +122,8 @@
       "nome": "Santo Antônio da Patrulha",
       "id": 6
     }
-  ]
+  ],
+  "auth": {
+    "accessToken": "aaaaaaaaaaaa.bbbbbbbbbbbb.ccccccccccc"
+  }
 }
